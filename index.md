@@ -1,5 +1,6 @@
 ---
-title: "Welcome to my blog"
+title: "Test site"
 ---
 
-I'm glad you are here. I plan to talk about ...
+- placeholder content
+- something ...
